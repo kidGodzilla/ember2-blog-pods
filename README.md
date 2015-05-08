@@ -7,8 +7,6 @@ A short introduction of this app could easily go here.
 
 A demo has been deployed to https://ember2-blog.firebaseapp.com/
 
-A draft of the Medium article accompanying this repo is available at https://medium.com/@jamesfuthey/8ef1f378ee4
-
 
 ## Prerequisites
 
