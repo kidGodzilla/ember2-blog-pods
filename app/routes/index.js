@@ -1,11 +1,11 @@
 import Ember from 'ember';
 
 export default Ember.Route.extend({
-  model: function () {
+  model() {
     return this.store.findAll('post');
   },
   actions: {
-    createPost: function () {
+    createPost() {
       let index = this.controllerFor('index');
 
       let post = this.store.createRecord('post', {
